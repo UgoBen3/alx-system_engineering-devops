@@ -1,2 +1,2 @@
 #!/bin/bash
-Task 4 - Hidden files
+Task 6 - Welcome
