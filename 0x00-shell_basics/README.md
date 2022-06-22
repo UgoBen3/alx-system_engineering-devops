@@ -1,2 +1,2 @@
 #!/bin/bash
-a script that Create a symbolic link to /bin/ls, named __ls__
+a script that copies all the HTML files
