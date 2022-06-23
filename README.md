@@ -1,1 +1,1 @@
-# 0x00. Shell, basics
+This is a project to present shell navigation
