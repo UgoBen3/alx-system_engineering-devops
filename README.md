@@ -1,2 +1,1 @@
-#!/bin/bash
-Task 1 - Who am I
+# 0x00. Shell, basics
